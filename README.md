@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
-<h3 align="center">A passionate software developer in Long Beach, California</h3>
+<h3 align="center">A passionate software developer based in California</h3>
 
-- 🔭 I’m currently working at **Flow Global Software Technologies** as a Back-end Engineer
+- 🔭 I’m currently as a Back-end Engineer
 
 - 📫 How to reach me **aniruddhagawande24@gmail.com**
 
